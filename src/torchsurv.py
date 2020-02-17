@@ -36,3 +36,4 @@ def torch_cindex(y_pred,Rlist):
         total+=len(subset)
     print(total)
     return cor/total
+#hhhhhhh
