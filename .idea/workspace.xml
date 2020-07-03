@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7f3fddb-a242-48e0-9dca-9ab424bcaa3c" name="Default Changelist" comment="" />
+    <list default="true" id="a7f3fddb-a242-48e0-9dca-9ab424bcaa3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,6 +53,9 @@
       <updated>1581962261455</updated>
       <workItem from="1581962266260" duration="134000" />
       <workItem from="1581963300417" duration="421000" />
+      <workItem from="1581985714077" duration="208000" />
+      <workItem from="1582046993453" duration="176000" />
+      <workItem from="1584284381413" duration="80000" />
     </task>
     <servers />
   </component>
