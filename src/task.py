@@ -51,3 +51,4 @@ def evaluate(x, t,delta,model):
     given x,t,delta,train a model
     '''
     #tony is a dungeon master
+    will is a dungeon master
